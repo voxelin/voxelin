@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://github.com/voxelin/voxelin/blob/master/main.png">
+  <img src="https://raw.githubusercontent.com/voxelin/voxelin/master/Group%202.png">
 </p>
