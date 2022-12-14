@@ -9,6 +9,7 @@
 ---
 ## Skills:
 - TypeScript
+- Deno
 - JavaScript
 - Python
 - Rust
